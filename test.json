@@ -1,0 +1,11 @@
+{
+    "Platform": "Windows",
+    "Software": "Madium",
+    "Versions": {
+        "SoftwareVersion": "V1.1.1",
+        "Roblox": "version-6776addb8fbc4d17"
+    },
+    "Changelog": [
+        "+ Fixed crashes on server hop"
+    ]
+}
