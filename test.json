@@ -2,8 +2,8 @@
     "Platform": "Windows",
     "Software": "Madium",
     "Versions": {
-        "SoftwareVersion": "1.3.0",
-        "Roblox": "version-689e359b09ad43b0"
+        "SoftwareVersion": "1.3.1",
+        "Roblox": "version-26c90be22e0d4758"
     },
     "Changelog": [
         "- Check discord"
