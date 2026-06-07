@@ -2,10 +2,10 @@
     "Platform": "Windows",
     "Software": "Madium",
     "Versions": {
-        "SoftwareVersion": "1.5.2",
-        "Roblox": "version-460909c4fe904aae"
+        "SoftwareVersion": "1.5.3",
+        "Roblox": "version-ad5d3e2906444472"
     },
     "Changelog": [
-        "- Updated to version-460909c4fe904aae"
+        "- Updated to version-ad5d3e2906444472"
     ]
 }
